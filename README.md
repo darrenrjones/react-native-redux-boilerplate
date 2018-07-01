@@ -1,0 +1,1 @@
+Made by following: [Tutorial 1: React Native Redux Boilerplate](https://medium.com/@mosesesan/tutorial-react-native-redux-boilerplate-4899f5c4f431)
